@@ -33,7 +33,7 @@
      inkscape:vp_z="287.49799 : 153.575 : 1"
      inkscape:persp3d-origin="143.74899 : 102.38333 : 1"
      id="perspective14449" /></defs><sodipodi:namedview
-   inkscape:window-height="974"
+   inkscape:window-height="800"
    inkscape:window-width="1280"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
@@ -46,10 +46,10 @@
    id="base"
    showgrid="true"
    inkscape:zoom="0.83021327"
-   inkscape:cx="510.46848"
+   inkscape:cx="462.28809"
    inkscape:cy="346.29656"
    inkscape:window-x="0"
-   inkscape:window-y="25"
+   inkscape:window-y="22"
    inkscape:current-layer="Layer_1"><inkscape:grid
      type="xygrid"
      id="grid14451"
@@ -57,7 +57,7 @@
      enabled="true" /></sodipodi:namedview>
 <switch
    id="switch9638"
-   transform="matrix(0.4,0,0,0.4,10.650667,20.476667)">
+   transform="matrix(0.4,0,0,0.4,10.650667,10.238333)">
 	<foreignObject
    requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
    x="0"
@@ -11623,58 +11623,118 @@ vU/54W6oo0GROeM/veMNBRRE7rWB9Q4H8mdDTv+nwe+evyS3TH57xxtzjOZOx9uueWP+5o735/+U
 	
 </i:pgf>
 <rect
-   style="opacity:1;fill:#ffd65d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.43272634999999998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.43272634999999998, 0.86545269999999985;stroke-dashoffset:0;stroke-opacity:0"
+   style="opacity:1;fill:#ffd65d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.43272635;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.43272635, 0.8654527;stroke-dashoffset:0;stroke-opacity:0"
    id="rect12771"
    width="117.72345"
    height="112.60062"
    x="159.10651"
-   y="158.71521"
+   y="148.47687"
    ry="7.7076092"
    rx="7.7076087" /><rect
-   style="opacity:1;fill:#628cbe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.42335507999999999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+   style="opacity:1;fill:#628cbe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.42335507;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
    id="rect11999"
    width="112.61299"
    height="112.6305"
    x="10.650666"
-   y="158.69417"
+   y="148.45583"
    ry="7.7076097"
    rx="7.7076092" /><text
    xml:space="preserve"
    style="font-size:16.3813343px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-   x="213.27368"
-   y="76.787498"
+   x="223.51202"
+   y="46.072498"
    id="text7189"
    sodipodi:linespacing="100%"><tspan
      sodipodi:role="line"
      id="tspan7191"
-     x="213.27368"
-     y="76.787498"
+     x="223.51202"
+     y="46.072498"
      style="font-size:28.66733551px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Utopia;-inkscape-font-specification:Utopia">Numpy</tspan></text>
+
+
+
 
 
 <text
    xml:space="preserve"
    style="font-size:9.21450043px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Waree;-inkscape-font-specification:Waree"
    x="70.53392"
-   y="286.67334"
+   y="276.435"
    id="text4786"
    sodipodi:linespacing="100%"><tspan
      sodipodi:role="line"
      id="tspan4788"
      x="70.53392"
-     y="286.67334"
+     y="276.435"
      style="font-size:9.21450043px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Waree;-inkscape-font-specification:Waree">Double-click to install</tspan></text>
+
+
+
 
 <text
    xml:space="preserve"
    style="font-size:9.21450043px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;overflow:visible;font-family:Waree;-inkscape-font-specification:Waree"
    x="220.23755"
-   y="286.67334"
+   y="276.435"
    id="text4790"
    sodipodi:linespacing="100%"><tspan
      sodipodi:role="line"
      id="tspan4794"
      x="220.23755"
-     y="286.67334">Documentation</tspan></text>
+     y="276.435">To know more about</tspan><tspan
+     sodipodi:role="line"
+     x="220.23755"
+     y="285.64951"
+     id="tspan2419">numpy</tspan><tspan
+     sodipodi:role="line"
+     x="220.23755"
+     y="294.86398"
+     id="tspan2421" /></text>
+
+
+
+
+<text
+   xml:space="preserve"
+   style="font-size:18.42900085px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;overflow:visible;font-family:Arial"
+   x="276.21753"
+   y="76.787506"
+   id="text2423"
+   sodipodi:linespacing="100%"><tspan
+     sodipodi:role="line"
+     id="tspan2425"
+     x="278.41135"
+     y="76.787506"
+     style="font-size:9.76720047px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Utopia;-inkscape-font-specification:Utopia"> The fundamental package </tspan><tspan
+     sodipodi:role="line"
+     x="278.41135"
+     y="86.55471"
+     style="font-size:9.76720047px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Utopia;-inkscape-font-specification:Utopia"
+     id="tspan2433">needed for </tspan><tspan
+     sodipodi:role="line"
+     x="278.41132"
+     y="96.321907"
+     style="font-size:9.76720047px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Utopia;-inkscape-font-specification:Utopia"
+     id="tspan2435">scientific computing </tspan><tspan
+     sodipodi:role="line"
+     x="276.21753"
+     y="106.0891"
+     style="font-size:9.76720047px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Utopia;-inkscape-font-specification:Utopia"
+     id="tspan2441">with Python</tspan></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+   x="202.90398"
+   y="98.736282"
+   id="text2427"><tspan
+     sodipodi:role="line"
+     id="tspan2429"
+     x="202.90398"
+     y="98.736282" /><tspan
+     sodipodi:role="line"
+     id="tspan2431" /></text>
+
 
 </svg>
